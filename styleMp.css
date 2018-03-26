@@ -1,0 +1,50 @@
+
+a:link {
+ color: #0033FF; 
+ text-decoration: none;
+ }
+a:hover {
+ color:#666633;
+ text-decoration: underline;
+ }
+
+ #kontent {
+ text-align:center;
+ }
+ 
+.ramka { 
+	background: #eeeee5; 
+	border: 4px dashed #abab9a; 
+	padding: 100px; 
+	font: 8pt Tahoma;
+	color: #2c2c2c;
+	}
+	
+	.letter1 { 
+     color: red; /* Красный цвет символов */ 
+     font-size: 200%; /* Размер шрифта в процентах */ 
+     font-family: serif; /* Шрифт с засечками */ 
+     position: relative; /* Относительное позиционирование */ 
+     top: 5px; /* Сдвиг сверху */ 
+    }
+	
+	.letter2 { 
+     color: blue; /* Красный цвет символов */ 
+     font-size: 200%; /* Размер шрифта в процентах */ 
+     font-family: arial; /* Шрифт с засечками */ 
+     position: relative; /* Относительное позиционирование */ 
+     bottom: 3px;
+    }
+	
+	.letter3 { 
+     color: green; /* Красный цвет символов */ 
+     font-size: 200%; /* Размер шрифта в процентах */ 
+     font-family: georgia; /* Шрифт с засечками */ 
+     position: relative; /* Относительное позиционирование */ 
+      top: 5px; /* Сдвиг сверху */ 
+    }
+	
+	.center {
+  text-align: center;
+  list-style-position: inside;
+}
